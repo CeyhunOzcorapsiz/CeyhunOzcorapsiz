@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ceyhun-%C3%B6z%C3%A7oraps%C4%B1z-1879b4234/">
+  <a href="https://www.linkedin.com/in/ceyhun-%C3%B6z%C3%A7oraps%C4%B1z-a0b644228/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ceyhunozcorapsiz@gmail.com">
