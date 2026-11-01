@@ -28,9 +28,12 @@
 | Project | Description | Tech Stack | Type |
 |---|---|---|---|
 | [**The Booth**](https://github.com/CeyhunOzcorapsiz/the-booth) | Live multi-agent AI football broadcast crew: personalized commentary in 12 languages with zero-hallucination fact checking | Python, FastAPI, Microsoft Foundry, Azure AI Speech, MCP | **Open Source & Live Demo** |
+| [**2026 World Cup Analytics**](https://github.com/CeyhunOzcorapsiz/wc2026-fifa-analytics) | FIFA World Cup 2026 Tactical DNA clustering, passing models, ambient heat impact, and travel footprint | Python, scikit-learn, PCA, pandas, matplotlib | **Open Source Code & Data** |
 | [**Global ERP Platform**](https://github.com/CeyhunOzcorapsiz/global-erp-showcase) | Independent modular ERP & multi-connector integration platform (15 modules, 90+ screens, banking & WMS) | .NET 8, Blazor Server, MudBlazor, SAP HANA, SQL Server | **Architecture Showcase** |
 | [**Airline Platform**](https://github.com/CeyhunOzcorapsiz/airline-platform-showcase) | High-concurrency flight booking & disruption management: distributed payment saga, Redis seat holds, and 15 ADRs | Java 21, Spring Boot 4, Kafka, Redis, Keycloak, Next.js 16 | **Architecture Showcase** |
-| [**2026 World Cup Analytics**](https://github.com/CeyhunOzcorapsiz/wc2026-fifa-analytics) | FIFA World Cup 2026 Tactical DNA clustering, passing models, ambient heat impact, and travel footprint | Python, scikit-learn, PCA, pandas, matplotlib | **Open Source Code** |
+| [**Kuyumcu Platform**](https://github.com/CeyhunOzcorapsiz/kuyumcu-showcase) | Jewelry e-commerce & dynamic gold pricing platform: special tax base (VAT)engine, 15-min price locks, and AI assistant | Next.js 16, React 19, TypeScript, Tailwind CSS 4, PostgreSQL, Prisma | **Fintech Architecture Showcase** |
+| [**SKOR! Mobile App**](https://github.com/CeyhunOzcorapsiz/skor-mobile-app-showcase) | 1v1 turn-based sports trivia mobile application with interactive pitch progress telestration and game loop | Flutter, Dart, Firebase Firestore, Cloud Functions | **Mobile Product Showcase** |
+| [**SAP Field Service**](https://github.com/CeyhunOzcorapsiz/sap-field-service) | Modern mobile PWA for field technicians: SAP B1 Service Layer sync, parts requisition, and digital customer signature | Next.js 16, React 19, TypeScript, SAP Service Layer, pdf-lib | **Enterprise PWA Showcase** |
 | [**ERPilot AI**](https://github.com/CeyhunOzcorapsiz/erpilot-ai-showcase) | Natural language financial assistant & statistical anomaly detection (BTK Akademi Hackathon 2026) | FastAPI, Google Gemini (Function Calling), pandas, Chart.js | **Architecture Showcase** |
 | [**SahaLens**](https://github.com/CeyhunOzcorapsiz/sahalens) | Local football video analysis & tactical meeting studio with AI event proposals and 2D pitch mapping | Node.js, Python, PyTorch, YOLO, Canvas API | **Product Showcase** |
 | [**YemekQR**](https://github.com/CeyhunOzcorapsiz/yemekqr-showcase) | AI-assisted restaurant POS with computer-vision tray recognition and frictionless QR receipts | React 19, Node.js, Express, Prisma, Google Gemini Vision | **Product Showcase** |
@@ -38,31 +41,20 @@
 
 ---
 
-### ðŸ’» Technologies & Frameworks
+### ðŸ’² Technologies & Frameworks
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src=(šÎ‹ËÚ[YËœÚY[Ëš[ËØ˜YÙKÐÉLŒËLŒÎLLŒÜÝ[OY›]\Ü]X\™I›ÙÛÏXÜÚ\œ	›ÙÛÐÛÛÜ]Ú]HˆÏ‚ˆ[YÈÜ˜ÏHšÎ‹ËÚ[YËœÚY[Ëš[ËØ˜YÙKË“‘UMLL‘ÜÝ[OY›]\Ü]X\™I›ÙÛÏYÝ™]	›ÙÛÐÛÛÜ]Ú]HˆÏ‚ˆ[YÈÜ˜ÏJ&‡GG3¢òö–Örç6†–VÆG2æ–òö&FvRô&Æ¦÷"ÓS$$CC÷7G–ÆSÖfÆB×7V&RfÆövóÖ&Æ¦÷"fÆövô6öÆ÷#×v†—FR"óà¢Æ–Ör7&3Ò&‡GG3¢òö–Örç6†–VÆG2æ–òö&FvRôfÇWGFW"Ó#Sc”#÷7G–ÆSÖfÆB×7V&RfÆövóÖfÇWGFW"fÆövô6öÆ÷#×v†—FR"óà¢Æ–Ör7&3Ò‰¡ÑÑÁÌè¼½¥µœ¹Í¡¥•±‘Ì¹¥¼½‰…‘”½…ÉÐ´ÀÄÜÕÈýÍÑå±”õ™±…ÐµÍÅÕ…É”™±½¼õ‘…ÉÐ™±½½½±½ÈõÝ¡¥Ñ”ˆ€¼ø(€€ñ¥µœÍÉŒô¢https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src=(šÎ‹ËÚ[YËœÚY[Ëš[ËØ˜YÙKÔÜš[™×Ð›ÛÝM‘ŒÌÑÜÝ[OY›]\Ü]X\™I›ÙÛÏ\Üš[™Ø›ÛÝ	›ÙÛÐÛÛÜ]Ú]HˆÏ‚ˆ[YÈÜ˜ÏHšÎ‹ËÚ[YËœÚY[Ëš[ËØ˜YÙKÔ]Û‹LÍÍÍPÜÝ[OY›]\Ü]X\™I›ÙÛÏ\]Û‰›ÙÛÐÛÛÜ]Ú]HˆÏ‚ˆ[YÈÜ˜ÏHšÎ‹ËÚ[YËœÚY[Ëš[ËØ˜YÙKÑ˜\ÝTKLMŽÜÝ[OY›]\Ü]X\™I›ÙÛÏY˜\Ý\I›ÙÛÐÛÛÜ]Ú]HˆÏ‚ˆ[YÈÜ˜ÏJ&‡GG3¢òö–Örç6†–VÆG2æ–òö&FvRõ&V7BÓcDd#÷7G–ÆSÖfÆB×7V&RfÆövó×&V7BfÆövô6öÆ÷#Ö&Æ6²"óà¢Æ–Ör7&3Ò&‡GG3¢òö–Örç6†–VÆG2æ–òö&FvRôæW‡Bæ§2Ó÷7G–ÆSÖfÆB×7V&RfÆövóÖæW‡FF÷F§2fÆövô6öÆ÷#×v†—FR"óà¢Æ–Ör7&3Ò‰¡ÑÑÁÌè¼½¥µœ¹Í¡¥•±‘Ì¹¥¼½‰…‘”½QåÁ•MÉ¥ÁÐ´ÌÄÜáØýÍÑå±”õ™±…ÐµÍÅÕ…É”™±½¼õÑåÁ•ÍÉ¥ÁÐ™±½½½±½ÈõÝ¡¥Ñ”ˆ€¼ø(€€ñ¥µœÍÉŒô¢https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP-0FAAEF?style=flat-square&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQLLKMMŽQLOÜÝ[OY›]\Ü]X\™I›ÙÛÏ\ÜÝÜ™\Ü[	›ÙÛÐÛÛÜ]Ú]HˆÏ‚ˆ[YÈÜ˜ÏJ&‡GG3¢òö–Örç6†–VÆG2æ–òö&FvRô6†Uô¶f¶Ó#3c#÷7G–ÆSÖfÆB×7V&RfÆövóÖ6†V¶f¶fÆövô6öÆ÷#×v†—FR"óà¢Æ–Ör7&3Ò‰¡ÑÑÁÌè¼½¥µœ¹Í¡¥•±‘Ì¹¥¼½‰…‘”½I•‘¥ÌµÌàÉýÍÑå±”õ™±…ÐµÍÅÕ…É”™±½¼õÉ•‘¥Ì™±½½½±½ÈõÝ¡¥Ñ”ˆ€¼ø(€€ñ¥µœÍÉŒô‰¡ÑÑÁÌè¼½¥µœ¹Í¡¥•±‘Ì¹¥¼½‰…‘”½¥É•‰…Í”µÈàýÍÑå±”õ™±…ÐµÍÅÕ…É”™±½¼õ™¥É•‰…Í”™±½½½±½Èõ‰±…¬ˆ€¼ø(€€ñ¥µœÍÉŒô¢https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ### ðŸ“Š GitHub Stats
+ext
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CeyhunOzcorapsiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
